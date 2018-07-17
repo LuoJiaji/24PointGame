@@ -11,7 +11,7 @@ while(True):
         d = round(random.uniform(1,10))
         arr = [float(a),float(b),float(c),float(d)]
         print('\n题目:',arr)
-        input('显示答案')
+        input('回车显示答案')
     #
     # print(a,b,c,d)
     elif state == '2':
